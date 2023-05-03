@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792451473296",
+    "project_id": "prak-auth-test",
+    "storage_bucket": "prak-auth-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792451473296:android:6682a4a14f505ed704dd15",
+        "android_client_info": {
+          "package_name": "com.example.prak_auth_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792451473296-2b2dp5bd8f4l06bregoacoth9ukegua9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASWYQwRq-ptXawXP9x1cq3a-gdjkmpYWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792451473296-2b2dp5bd8f4l06bregoacoth9ukegua9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
